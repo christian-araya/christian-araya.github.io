@@ -1,7 +1,4 @@
 ---
-<br />
-<br />
-<br />
 layout: page
 title: Hi!
 ---
