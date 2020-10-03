@@ -3,7 +3,7 @@ layout: home
 title: Hi!
 ---
 
-Look! These are some things I've worked on!
+'Look!' These are some things I've worked on!
 
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
