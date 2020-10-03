@@ -3,6 +3,8 @@ layout: home
 title: Hi!
 ---
 
+Look! These are some things I've worked on!
+
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
 * A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
