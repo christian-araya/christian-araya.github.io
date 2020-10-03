@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Hi!
+title: Look!
 ---
 
-`Look!` These are some things I've worked on!
+I've worked on things!
 
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
