@@ -3,4 +3,6 @@ layout: home
 title: About Me
 ---
 
-Hello world, this is a blurb about me
+I believe in the quality of things. And I apply this feeling to everything that I do. 
+
+
